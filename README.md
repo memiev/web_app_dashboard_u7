@@ -7,7 +7,7 @@ About this Project 7
     These "dashboards" act like your control panel for controlling the web app.
 
     In this project, you'll take a mockup and a few icons and build a beautiful, web dashboard complete with JavaScript-driven charts and graphs. 
-    You only need to take the design and create the HTML, CSS and JavaScript functionality for this one page -- you don't need to create other pages, or build any backend or database                     functionality.
+    You only need to take the design and create the HTML, CSS and JavaScript functionality for this one page -- you don't need to create other pages, or build any backend or database functionality.
 
 GRID    FLEX    SVG     DOM
 
