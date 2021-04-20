@@ -1,7 +1,7 @@
 # Web App Dashboard
 About this Project 7
-    Many websites do more than just give you information. Sites like GitHub, and Treehouse let users do things. They act like programs you run on your computer. 
 
+    Many websites do more than just give you information. Sites like GitHub, and Treehouse let users do things. They act like programs you run on your computer. 
     These "dashboards" act like your control panel for controlling the web app.
 
     In this project, you'll take a mockup and a few icons and build a beautiful, web dashboard complete with JavaScript-driven charts and graphs. 
