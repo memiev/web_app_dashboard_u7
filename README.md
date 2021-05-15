@@ -26,3 +26,4 @@ FORMS
 •	Checkboxes
 
 ![preview1](https://user-images.githubusercontent.com/60774707/115409876-d4432c00-a1fa-11eb-903b-4c84e1cbaaf9.png)
+
